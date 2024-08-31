@@ -1,0 +1,32 @@
+
+.navLogo {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    border: 2px solid rgb(161, 78, 165);
+    background-color: rgb(203, 201, 201);
+    border-radius: 20px;
+  }
+  .navLogo >img{
+      width: 20px;
+      padding: 3px
+  }
+  .head {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(208, 144, 200);
+    padding: 12px;
+  }
+  
+  ul {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+  }
+
+  
+  
+  body{
+    margin: 0;
+    padding: 0;
+  }
